@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.svg" alt="Project logo" width="140" />
+  <img src="./assets/logos.svg" alt="Project logo" width="140" />
 </p>
 
 <h1 align="center">My React App</h1>
